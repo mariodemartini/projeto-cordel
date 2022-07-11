@@ -1,6 +1,6 @@
 # projeto-cordel
 
-Cordel do Milton Duarte
+> Cordel do Milton Duarte
 
 Continuação do curso de html/css do Curso em Video - Gustavo Guanabara
 
